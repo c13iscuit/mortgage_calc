@@ -1,6 +1,3 @@
-# require_relative 'calculator'
-require 'pry'
-
 class Mortgage
 
   def initialize(home_value, down_payment_percentage, apr, duration_in_years)
